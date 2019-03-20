@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.majorsweeps.com	TRUE	/	FALSE	1999999999	X-Mapping-hcneaomb	45847D51213ABCBD1E110F076069447E
+www.majorsweeps.com	TRUE	/	FALSE	1999999999	PHPSESSID	57f77dd18814f236c80fbabceca2ab7e
+.crazyegg.com	TRUE	/	FALSE	1999999999	__cfduid	d369cf80a65250842291e67ca2ab194b01551839611
+www.xverify.com	TRUE	/	FALSE	1999999999	AWSALB	yl+uaqb/pGMPiGoQGYMaEM9og/jXJvLDZR2Fp9c3b8+LuEhtWWxHl6DeJ5coUBWZKTbU0noSUvdq6JGfF84xo7U6AHnJmXTjxIELrFnx7cj/HinU8FSa0U2/bLs0
+
